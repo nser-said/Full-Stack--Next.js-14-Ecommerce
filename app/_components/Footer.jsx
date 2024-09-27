@@ -100,7 +100,7 @@ function Footer() {
 							target="_blank"
 							className="text-gray-700 transition hover:text-gray-700/75"
 						>
-							<span className="sr-only">GitHub</span>
+							<span className="sr-only">GitHub naser</span>
 							<svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
 								<path
 									fillRule="evenodd"
